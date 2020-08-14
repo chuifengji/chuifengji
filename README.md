@@ -5,6 +5,4 @@
 
 **love technology:alien:,love life.**:dog:
 
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuifengji&hide=HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
