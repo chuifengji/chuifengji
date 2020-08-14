@@ -1,5 +1,5 @@
 ### Hi, 😜I'm EthanLv ,or you can call me chuifengji.:hand:
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/vaporwave-chillwave-dreamwave-TgmSMsUvvRfbivssMz" />
  
 **a future full stack developer on th way🚀**
 
