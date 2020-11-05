@@ -7,6 +7,6 @@
 **love technology:alien:,love life.**:dog:
 
 
-微信：LDLwait2022
+我的微信~：LDLwait2022
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuifengji&hide=HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
