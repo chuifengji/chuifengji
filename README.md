@@ -5,7 +5,7 @@
 **a future full stack developer on th way🚀**
 
 **love technology:alien:,love life.**:dog:
-
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=chuifengji0719)
 
 我的微信~：LDLwait2022
 
