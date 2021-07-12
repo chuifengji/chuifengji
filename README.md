@@ -4,9 +4,5 @@
  
 **a future full stack developer on th way🚀**
 
-**love technology:alien:,love life.**:dog:
- 
-
-我的微信~：LDLwait2022
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuifengji&hide=HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
